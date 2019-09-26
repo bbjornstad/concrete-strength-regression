@@ -1,5 +1,4 @@
 # Concrete Strengh Regression
-----
 In this project, we will predict the concrete compressive strength using regression techniques. This is a measure of the ability of concrete to withstand compression, and is a nonlinear relationship of both the age of the concrete and the ingredients used to create the concrete. This dataset comes directly from [Kaggle](https://www.kaggle.com/maajdl/yeh-concret-data/).
 
 ## Project Implementation
